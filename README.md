@@ -44,7 +44,7 @@ npm test
 
 ##### The Basics
 
-The entire functionality of Vynchronize relies on web sockets, specifically
+The entire functionality of WeTube relies on web sockets, specifically
 Socket.IO. When a client connects to the server, a socket is created. The user
 then enters a name and a room number. The inputs are sent back to the server, and
 it creates/joins a room of that name with Socket.IO. Any user can connect to the
